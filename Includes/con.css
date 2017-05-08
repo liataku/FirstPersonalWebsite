@@ -1,0 +1,34 @@
+.container{
+	text-align: center;
+}
+
+form{
+	color: #f9fbff;
+}
+.text{
+	color: black;
+}
+
+.jumbotron{
+	background-color: #6e97ea;
+}
+.contact{
+	color: black;
+}
+textarea{
+	color: black;
+}
+#subscribe{
+	color: black;
+}
+h5{
+	text-align: center;
+	color: white;
+	font-size: 36px;
+}
+p{
+	text-align: center;
+}
+.thanks{
+	color: red;
+}

@@ -1,0 +1,242 @@
+body { 
+	padding-top: 75px;
+	background-color: #04193a;
+	background:url(pics/night.jpg);
+	background-size: cover;
+	background-position: center;
+	
+}
+.navbar{
+	background-color:#032151;
+	border: solid 0;
+}
+
+.active a{
+    background-color: #5177b5 !important;
+}
+
+
+
+.front{
+	
+	background-color: #023382;
+	border:solid 1px #05275e;
+	/*height: 640px;*/
+	height:2000px;
+	width: 1200px;
+	margin-top: -5px;
+	margin-left: -23px;
+	opacity: 0.9;
+}
+#profile{
+	margin-left: 15px;
+	margin-top: 15px;
+	height: 250px;
+	width: 200px;
+	border: 2px solid #032151;
+	/*opacity: 2.6;*/
+
+
+}
+
+
+.writing{
+	text-align: center;
+	margin: auto;
+	position: relative;
+	bottom: 430px;
+	right: 10px;
+
+
+}
+
+.writing h2{
+	color: white;
+	text-decoration: underline;
+	position: relative;
+	left: 35px;
+
+}
+
+
+p{
+	color: white;
+	white-space: pre;
+}
+
+
+.selection {
+	color: white;
+}
+
+.fa-id-card{
+	color:white;
+}
+
+#about{
+	text-align: center;
+}
+.webcover h3{
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 35px;
+	color: #5177b5;
+	
+
+
+}
+
+h2{
+	font-family: 'Farsan', cursive;
+	text-align: center;
+	margin-top: 220px;
+	font-size: 35px;
+	color: #5177b5;
+
+
+}
+
+#firstp{
+	text-align: center;
+	margin-left: 120px;
+}
+#secondP{
+	text-align: center;
+	margin-left: 120px;
+	margin-top: -35px; 
+}
+
+#thirdP{
+	text-align: center;
+	margin-left: 120px;
+	margin-bottom: -35px;
+	margin-top: -15;
+}
+#fourthP{
+	text-align: center;
+	margin-left: 120px;
+	margin-top: -10px;
+}
+
+.footer{
+	background-color: #032151;
+	width:1270px;
+	margin-left: -70px;
+}
+
+
+.compsci{
+	border: 3px solid black;
+	position: relative;
+	left: 10px;
+	bottom: 120px;
+	
+	
+}
+
+.drow{
+	border: 3px solid black;
+}
+.dcol{
+	border: 3px solid black;
+	color: white;
+	height: 75px;
+	padding-left: 10px;
+}
+
+table th{
+	color: white;
+	border: 3px solid black;
+	
+}
+
+.tbh{
+	padding-left: 20px;
+}
+#tbTitle{
+	position: relative;
+	bottom: 150px;
+
+}
+hr{
+	position: relative;
+	left: 10px;
+	background-color: yellow;
+}
+
+.dhr{
+	position: relative;
+	bottom: 130px;
+}
+
+#tskills{
+	position: relative;
+	bottom: 300px;
+}
+
+.list{
+	position: relative;
+	bottom:300px;
+	font-family: 'Anton', sans-serif;
+	text-align: left;
+	font-size: 35px;
+	color: white;
+	left: 20px;
+	
+}
+
+td{
+	padding-left: 80px;
+}
+tr{
+	color: white;
+	height: 75px;
+	padding-left: 10px;
+}
+
+div.writing{
+
+}
+
+.pictitle h2{
+	position: relative;
+	bottom: 170px;
+	color: white;
+	font-size: 45px;
+
+}
+
+
+.pos{
+
+	position: relative;
+	text-align: center;
+	top: 20px;
+	
+}
+
+
+
+.Resume{
+	height: 100px;
+}
+
+.bt{
+	
+}
+
+.res h2{
+	color: white;
+	font-size: 40px;
+}
+
+.collapsed{
+	  z-index: 2;
+    position: relative;
+}
+.btn-lg{
+	background-color: #032151;
+	border: 1px solid white;
+	
+}
